@@ -19,7 +19,7 @@ function CreateArea(props) {
             [event.target.name]: event.target.value
         })
 
-        const { name, value } = event.target;
+        // const { name, value } = event.target;
         // setNote(prevNote => {
         //     return {
         //         ...prevNote,
